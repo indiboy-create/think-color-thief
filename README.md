@@ -1,3 +1,8 @@
+## ThinkPHP-PanGu - 盘古ThinkPHP开源索引!
+面向 ThinkPHP 的开源工程索引：组件、框架、服务与发布工具，按能力组织，持续整理。
+仓库地址：**<https://github.com/indiboy-create/ThinkPHP-PanGu/>**
+在线站点：**<https://indiboy-create.github.io/ThinkPHP-PanGu/>**
+
 # think-color-thief
 
 ThinkPHP 8 图片主色调提取扩展，基于 [ksubileau/color-thief-php](https://github.com/ksubileau/color-thief-php) 封装，支持从本地文件、远程 URL、二进制内容以及 GD/Imagick/Gmagick 对象提取主色调与调色板。
